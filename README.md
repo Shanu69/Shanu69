@@ -28,3 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanu69&show_icons=true&locale=en" alt="shanu69" /></p>
 
+## 🐍 Contribution Snake Animation
+![snake gif](https://github.com/shanu69/shanu69/blob/output/github-contribution-grid-snake.svg)
+
+
